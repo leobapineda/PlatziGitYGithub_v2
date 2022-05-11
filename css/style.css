@@ -23,3 +23,8 @@ body {
   background-color: #64ffdb30;
   color: #e6f1ff;
 }
+
+.cabecera small {
+  font-size: 1rem;
+  color: #8892b0;
+}
